@@ -4,6 +4,7 @@
 
 .github-profile img {
   width: 75px;
+  float: left;
 }
 
 .github-profile .info {
