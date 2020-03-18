@@ -18,7 +18,7 @@ class App extends React.Component {
       <div>
         <div className="header">{this.props.title}</div>
         <Form />
-        <CardList profiles={this.state.profiles}/>
+        <CardList profiles={this.state.profiles} />
       </div>
     );
   }
